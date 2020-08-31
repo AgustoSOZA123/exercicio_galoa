@@ -1,0 +1,9 @@
+(function($){
+    $(function(){
+        $('.sidenav').sidenav();
+        $('.parallax').parallax();
+        $('.fixed-action-btn').floatingActionButton();
+        $('.modal').modal();
+        $('.collapsible').collapsible();
+    });
+})(jQuery);

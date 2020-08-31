@@ -1,0 +1,31 @@
+p{
+    line-height: 2rem;
+}
+
+nav ul a,
+nav .brand-logo{
+    color:#444;
+    font-family: Roboto;
+}
+
+
+.sidenav-trigger{
+    color: #0f0101;
+}
+
+.parallax-container{
+    min-height: 380px;
+    line-height: 0;
+    height: auto;
+    color: rgba(255,255,255,.9)
+}
+
+.parallax-container .section{
+    width: 100%;
+}
+
+.collection-item{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
